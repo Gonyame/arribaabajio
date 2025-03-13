@@ -1371,7 +1371,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   width: 100
   length: 100
-  maxHeight: 5
+  maxHeight: 2
   roomSize: 1
   floorPrefab: {fileID: 2350548721274387306, guid: e51be3a19319a9e47b9e7c2110e020bb,
     type: 3}
@@ -1381,7 +1381,7 @@ MonoBehaviour:
     type: 3}
   obstaclePrefabs:
   - {fileID: 3278708449228885677, guid: 4b3ee27f3f1e014428a1709fbb0eaa57, type: 3}
-  obstaclePercentage: 1
+  obstaclePercentage: 3
   generateCeiling: 0
 --- !u!4 &1084389035
 Transform:
